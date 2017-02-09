@@ -3,3 +3,4 @@ test21
 test4
 branch01112
 测试新的merge方式（非fast forward）
+i am a
